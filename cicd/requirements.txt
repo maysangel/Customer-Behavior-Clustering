@@ -1,0 +1,7 @@
+azureml-sdk
+scikit-learn
+pandas
+numpy
+matplotlib
+streamlit
+gitpython
